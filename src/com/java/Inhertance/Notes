@@ -1,0 +1,14 @@
+super Keyword :
+
+1) Avoiding Ambiguity:
+
+When a subclass has a member with the same name as a member in the parent class, using super helps to distinguish between the two.
+
+2) Accessing Parent Class Members:
+
+super is used to access members (fields, methods, or nested classes) of the immediate parent class.
+It is often used when a subclass has overridden a method or field and wants to refer to the parent class's version.
+
+3) Calling Parent Class Constructors:
+
+super() is used to call the constructor of the immediate parent class. It should be the first statement in the subclass constructor.

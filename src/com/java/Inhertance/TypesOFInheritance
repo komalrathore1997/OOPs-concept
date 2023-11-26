@@ -1,0 +1,29 @@
+Types of inheritance:
+
+1) Singal Inheritance -> one class extends another class
+    
+     Box--> BoxWeight
+     
+     Example: SingleInheritance.class
+     
+2) Multiple Inheritance (through Interfaces)  -->
+
+   * Java does not support multiple inheritance for classes (i.e., a class cannot extend more than one class).
+    However, it supports multiple inheritance through interfaces.
+   * An interface in Java is a collection of abstract methods. A class can implement multiple interfaces.
+     
+   Example :
+   
+   interface Interface1 {
+    // interface members
+   }
+
+	interface Interface2 {
+	    // interface members
+	}
+
+	class MyClass implements Interface1, Interface2 {
+	    // class members
+	}
+	    
+2) Multi-level Inheritance ->       
