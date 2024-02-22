@@ -1,0 +1,32 @@
+Polymorphism : many ways to represent a single entity or item
+
+ (greek word) poly --> many
+ (greek word) morphism -> ways to represent
+ 
+            SHPAE
+             
+    CIRLE  SQUARE  TRINGEL    
+    
+Types of Polymorpism:
+
+1) Compile Time Polymorphism/ Static polymorphism((Achived by)Method Overloading)
+   method overloading -
+     --same method name
+     --but types assignment, return type ,ordering can be different
+     
+     Example - 
+     Multiple constructure
+     
+     Numbers.java
+     
+2) Runtime / Dynamic Ploymorphism( achieved by method overriding)
+
+    return type method name and arrgument everting are same but mehtod body is diff
+     
+      
+     
+           
+ 
+ 
+  
+   
