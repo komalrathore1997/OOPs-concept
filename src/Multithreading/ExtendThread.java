@@ -13,7 +13,6 @@ public class ExtendThread extends Thread{
 	public static void main(String[] args) {
 		ExtendThread thread=new ExtendThread();
 		thread.start();
-		thread.start();
 		
 	}
 
